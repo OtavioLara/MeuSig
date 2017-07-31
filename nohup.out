@@ -1,0 +1,67 @@
+Laravel development server started: <http://127.0.0.1:8000>
+[Sun Jul 30 19:22:42 2017] 127.0.0.1:56152 [200]: /favicon.ico
+[Sun Jul 30 19:22:44 2017] 127.0.0.1:56156 [200]: /favicon.ico
+[Sun Jul 30 19:22:49 2017] 127.0.0.1:56162 [200]: /favicon.ico
+[Sun Jul 30 19:22:53 2017] 127.0.0.1:56164 [200]: /favicon.ico
+[Sun Jul 30 19:22:55 2017] 127.0.0.1:56166 [200]: /favicon.ico
+[Sun Jul 30 19:22:58 2017] 127.0.0.1:56176 [200]: /js/angular.min.js
+[Sun Jul 30 19:22:58 2017] 127.0.0.1:56178 [200]: /css/login.css
+[Sun Jul 30 19:22:58 2017] 127.0.0.1:56180 [200]: /favicon.ico
+[Sun Jul 30 19:23:03 2017] 127.0.0.1:56186 [200]: /favicon.ico
+[Sun Jul 30 19:23:22 2017] 127.0.0.1:56188 [200]: /favicon.ico
+[Sun Jul 30 19:24:06 2017] 127.0.0.1:56190 Invalid request (Unexpected EOF)
+[Sun Jul 30 19:24:06 2017] 127.0.0.1:56198 [200]: /favicon.ico
+[Sun Jul 30 19:29:23 2017] 127.0.0.1:56204 [200]: /favicon.ico
+[Sun Jul 30 19:29:24 2017] 127.0.0.1:56208 [200]: /js/angular.min.js
+[Sun Jul 30 19:29:24 2017] 127.0.0.1:56210 [200]: /css/login.css
+[Sun Jul 30 19:29:25 2017] 127.0.0.1:56212 [200]: /favicon.ico
+[Sun Jul 30 19:29:26 2017] 127.0.0.1:56218 [200]: /favicon.ico
+[Sun Jul 30 19:40:50 2017] 127.0.0.1:56228 [200]: /favicon.ico
+[Sun Jul 30 19:40:51 2017] 127.0.0.1:56232 [200]: /js/angular.min.js
+[Sun Jul 30 19:40:51 2017] 127.0.0.1:56234 [200]: /css/login.css
+[Sun Jul 30 19:40:52 2017] 127.0.0.1:56236 [200]: /favicon.ico
+[Sun Jul 30 19:40:53 2017] 127.0.0.1:56242 [200]: /favicon.ico
+[Sun Jul 30 19:40:55 2017] 127.0.0.1:56244 [200]: /favicon.ico
+[Sun Jul 30 19:44:09 2017] 127.0.0.1:56246 Invalid request (Unexpected EOF)
+[Sun Jul 30 19:53:05 2017] 127.0.0.1:56278 [200]: /favicon.ico
+[Sun Jul 30 20:40:19 2017] 127.0.0.1:56400 [200]: /favicon.ico
+[Sun Jul 30 20:40:22 2017] 127.0.0.1:56404 [200]: /js/angular.min.js
+[Sun Jul 30 20:40:22 2017] 127.0.0.1:56406 [200]: /css/login.css
+[Sun Jul 30 20:40:22 2017] 127.0.0.1:56408 [200]: /favicon.ico
+[Sun Jul 30 20:40:38 2017] 127.0.0.1:56412 [200]: /favicon.ico
+[Sun Jul 30 20:40:40 2017] 127.0.0.1:56414 [200]: /favicon.ico
+[Sun Jul 30 20:40:41 2017] 127.0.0.1:56416 [200]: /favicon.ico
+[Sun Jul 30 20:40:42 2017] 127.0.0.1:56418 [200]: /favicon.ico
+[Sun Jul 30 20:40:43 2017] 127.0.0.1:56420 [200]: /favicon.ico
+[Sun Jul 30 20:40:45 2017] 127.0.0.1:56424 [200]: /favicon.ico
+[Sun Jul 30 20:41:01 2017] 127.0.0.1:56428 [200]: /js/angular.min.js
+[Sun Jul 30 20:41:01 2017] 127.0.0.1:56430 [200]: /css/login.css
+[Sun Jul 30 20:41:02 2017] 127.0.0.1:56432 [200]: /favicon.ico
+[Sun Jul 30 20:50:05 2017] 127.0.0.1:56614 [200]: /favicon.ico
+[Sun Jul 30 20:50:06 2017] 127.0.0.1:56616 [200]: /favicon.ico
+[Sun Jul 30 20:50:09 2017] 127.0.0.1:56620 [200]: /js/angular.min.js
+[Sun Jul 30 20:50:09 2017] 127.0.0.1:56622 [200]: /css/login.css
+[Sun Jul 30 20:50:09 2017] 127.0.0.1:56624 [200]: /favicon.ico
+[Sun Jul 30 20:50:17 2017] 127.0.0.1:56630 [200]: /favicon.ico
+[Sun Jul 30 21:01:44 2017] 127.0.0.1:56778 [200]: /js/angular.min.js
+[Sun Jul 30 21:01:44 2017] 127.0.0.1:56780 [200]: /css/login.css
+[Sun Jul 30 21:01:45 2017] 127.0.0.1:56782 [200]: /favicon.ico
+[Sun Jul 30 21:01:51 2017] 127.0.0.1:56790 [200]: /js/angular.min.js
+[Sun Jul 30 21:01:51 2017] 127.0.0.1:56792 [200]: /css/login.css
+[Sun Jul 30 21:01:51 2017] 127.0.0.1:56794 [200]: /favicon.ico
+[Sun Jul 30 21:02:50 2017] 127.0.0.1:56800 [200]: /favicon.ico
+[Sun Jul 30 21:02:52 2017] 127.0.0.1:56802 [200]: /favicon.ico
+[Sun Jul 30 21:03:00 2017] 127.0.0.1:56810 [200]: /favicon.ico
+[Sun Jul 30 21:03:47 2017] 127.0.0.1:56818 [200]: /js/angular.min.js
+[Sun Jul 30 21:03:47 2017] 127.0.0.1:56820 [200]: /css/login.css
+[Sun Jul 30 21:03:47 2017] 127.0.0.1:56822 [200]: /favicon.ico
+[Sun Jul 30 21:03:51 2017] 127.0.0.1:56828 [200]: /favicon.ico
+[Sun Jul 30 21:04:48 2017] 127.0.0.1:56832 [200]: /favicon.ico
+[Sun Jul 30 21:04:50 2017] 127.0.0.1:56834 [200]: /favicon.ico
+[Sun Jul 30 21:04:50 2017] 127.0.0.1:56836 [200]: /favicon.ico
+[Sun Jul 30 21:04:54 2017] 127.0.0.1:56842 [200]: /favicon.ico
+[Sun Jul 30 21:05:07 2017] 127.0.0.1:56844 Invalid request (Unexpected EOF)
+[Sun Jul 30 21:05:08 2017] 127.0.0.1:56850 [200]: /favicon.ico
+[Sun Jul 30 21:05:19 2017] 127.0.0.1:56852 Invalid request (Unexpected EOF)
+[Sun Jul 30 21:06:12 2017] 127.0.0.1:56862 [200]: /favicon.ico
+Terminated

@@ -1,0 +1,14 @@
+.principal{
+    padding-top: 300px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.login{
+    padding: 1.5%;
+    width: 25%;
+    height: 25%;
+    background-color: #bbb;
+    border-radius: 25px;
+}
